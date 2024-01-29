@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "小黄同学的文档",
+  title: "Turbo嘉明的学习笔记",
   description: "测试云服务器部署",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
